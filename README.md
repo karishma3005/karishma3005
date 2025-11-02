@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karishma Gurikar</h1>
-<h3 align="center">A passionate frontend developer from Pune , India</h3>
+<h3 align="center">A passionate Web Development & Data Science Enthusiast from Pune , India</h3>
 
 - 🌱 I’m currently learning **Frontend technologies HTML, CSS , Javascript, ReactJs , Nodejs ,MongoDb**
 
