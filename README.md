@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karishma Gurikar</h1>
 <h3 align="center">A passionate Web Development & Data Science Enthusiast from Pune , India</h3>
 
-- 🌱 I’m currently learning **Frontend technologies HTML, CSS , Javascript, ReactJs , Nodejs ,MongoDb**
+- 🌱 I’m currently learning **Web development technologies HTML, CSS , Javascript, ReactJs , Nodejs ,MongoDb**
 
 - 📫 How to reach me **21ksgurikar18015@gmail.com**
 
